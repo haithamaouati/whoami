@@ -10,8 +10,6 @@ ___
 ## Who am I?
 My name is **Haitham Aouati**. I am a constant in a sea of variables.
 
-- Location: 127.0.0.1
-
 ## What I do?
 I love :heart: writing bash scripts for Linux and userscripts in JavaScript for the Via browser
 
