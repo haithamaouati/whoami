@@ -5,7 +5,7 @@ ___
 
 - [Who am I?](#who-am-i)
 - [What I do?](#what-i-do)
-- [My principle](#my-principle)
+- [Favorite quote](#favorite-quote)
 - [Follow me](#follow-me)
 
 ## Who am I?
@@ -14,7 +14,7 @@ My name is **Haitham Aouati**. I am a constant in a sea of variables.
 ## What I do?
 I love :heart: writing bash scripts for Linux and userscripts in JavaScript for the Via browser
 
-## My principle
+## Favorite quote
 > **Note**:
 > Don't learn to hack, hack to learn.
 
