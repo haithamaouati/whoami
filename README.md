@@ -7,6 +7,8 @@ ___
 - [What I do?](#what-i-do)
 - [Favorite quote](#favorite-quote)
 
+([Table of Contents](#table-of-contents))
+
 ## Who am I?
 My name is **Haitham Aouati**. I am a constant in a sea of variables.
 
@@ -16,5 +18,3 @@ I love :heart: writing bash scripts for Linux and userscripts in JavaScript for 
 ## Favorite quote
 > **Note**:
 > _“Don't learn to hack, hack to learn”_
-
-([Table of Contents](#table-of-contents))
