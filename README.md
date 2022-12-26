@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 ___
 
 ## Table of Contents
@@ -16,11 +16,12 @@ My name is **Haitham Aouati**. I am a constant in a sea of variables.
 [![GitHub followers](https://img.shields.io/github/followers/haithamaouati.svg?style=social&label=Followers)](https://github.com/haithamaouati)
 
 ## What I do?
-I love :heart: writing scripts in `bash` and `python` also userscripts in `JavaScript`.
+I am passionate about **penetration testing** and enjoy **coding** in my free time. I have experience in **scripting languages** and am always looking for new opportunities to learn and grow. In my projects, you'll find a combination of **scripts** and **gists** approaches. I am excited to share my work with the community and collaborate on new ideas. Thank you for stopping by!
 
 ## Favorite quote
-> **Note**:
+> **Warning**:
 > _“Don't learn to hack, hack to learn”_
 
 ## Choose freedom
-Do What the Fuck You Want to.
+> **Note**:
+> Do What the Fuck You Want to.
