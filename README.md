@@ -13,6 +13,8 @@ ___
 ## Who am I?
 My name is **Haitham Aouati**. I am a constant in a sea of variables.
 
+[![GitHub followers](https://img.shields.io/github/followers/haithamaouati.svg?style=social&label=Followers)](https://github.com/haithamaouati)
+
 ## What I do?
 I love :heart: writing scripts in `bash` and `python` also userscripts in `JavaScript`.
 
