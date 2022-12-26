@@ -14,7 +14,7 @@ ___
 My name is **Haitham Aouati**. I am a constant in a sea of variables.
 
 ## What I do?
-I love :heart: writing bash scripts for Linux and userscripts in JavaScript for the Via browser
+I love :heart: writing scripts in `bash` and `python` also userscripts in `JavaScript`.
 
 ## Favorite quote
 > **Note**:
