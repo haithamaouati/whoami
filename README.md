@@ -8,8 +8,6 @@ ___
 - [Favorite quote](#favorite-quote)
 - [Choose freedom](#choose-freedom)
 
-([Table of Contents](#table-of-contents))
-
 ## Who am I?
 My name is **Haitham Aouati**. I am a constant in a sea of variables.
 
@@ -20,8 +18,10 @@ I am passionate about **penetration testing** and enjoy **coding** in my free ti
 
 ## Favorite quote
 > **Warning**:
-> _“Don't learn to hack, hack to learn”_
+> _“Don't learn to hack, hack to learn.”_
 
 ## Choose freedom
 > **Note**:
 > Do What the Fuck You Want to.
+
+([Table of Contents](#table-of-contents))
