@@ -1,3 +1,11 @@
+<p align="center">
+    <img src="https://cdn-115.anonfiles.com/X1XfL8Pby1/f843f8b7-1672690361/black_white-modified.png" width="150px">
+</p>
+<h1 align="center">HawkHA</h1>
+<p align="center">
+    “I am a <b>constant</b> in a sea of <b>variables</b>.”
+</p>
+
 ### Hi there! 👋
 ___
 
