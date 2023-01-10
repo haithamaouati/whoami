@@ -14,7 +14,7 @@ ___
 - [Choose freedom](#choose-freedom)
 
 ## Who am I?
-My name is **Haitham Aouati**. I am a constant in a sea of variables.
+My name is **Haitham Aouati**. My nickname is **HawkHA**
 
 [![GitHub followers](https://img.shields.io/github/followers/haithamaouati.svg?style=social&label=Followers)](https://github.com/haithamaouati)
 
