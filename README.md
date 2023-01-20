@@ -14,7 +14,7 @@ ___
 - [Choose freedom](#choose-freedom)
 
 ## Who am I?
-My name is **Haitham Aouati**. My nickname is **HawkHA**
+My name is **Haitham Aouati**, called **HawkHA**
 
 [![GitHub followers](https://img.shields.io/github/followers/haithamaouati.svg?style=social&label=Followers)](https://github.com/haithamaouati)
 
