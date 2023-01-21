@@ -1,8 +1,6 @@
 <h1 align="center">HawkHA</h1>
 <p align="center">
     “<b>Constant</b> amid a sea of <b>variables</b>.”
-    <br>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=haithamaouati&format=true" alt="haithamaouati Visitors">
 </p>
 
 ### Hi there! 👋
@@ -14,7 +12,7 @@ ___
 - [What I do?](#what-i-do)
 
 ## Who am I?
-My name is **Haitham Aouati**, called **HawkHA**
+My name is **Haitham Aouati**
 
 [![GitHub followers](https://img.shields.io/github/followers/haithamaouati.svg?style=social&label=Followers)](https://github.com/haithamaouati)
 
