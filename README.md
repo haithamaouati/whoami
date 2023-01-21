@@ -1,6 +1,7 @@
 <h1 align="center">HawkHA</h1>
 <p align="center">
     “<b>Constant</b> amid a sea of <b>variables</b>.”
+    <br>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=haithamaouati&format=true" alt="haithamaouati Visitors">
 </p>
 
