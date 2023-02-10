@@ -1,6 +1,6 @@
 <h1 align="center">HawkHA</h1>
 <p align="center">
-    “<b>Constant</b> amid a sea of <b>variables</b>.”
+    “<b>Constant</b> amid sea of <b>variables</b>.”
 </p>
 
 ___
