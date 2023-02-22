@@ -1,4 +1,10 @@
-<h1 align="center">HawkHA</h1>
+# HawkHA
+_"Constant amid sea of variables."_ -[Haitham Aouati](https://github.com/haithamaouati)
 
 ## Who am I?
-I am passionate about **penetration testing** and enjoy **coding** in my free time. I have experience in **scripting languages** and am always looking for new opportunities to learn and grow. In my [repos](https://github.com/haithamaouati?tab=repositories), you'll find a combination of [scripts](https://github.com/haithamaouati?tab=repositories) and [gists](https://gist.github.com/haithamaouati) approaches
+Name |Age | Nationality
+--- | --- | ---
+Haitham Aouati | 23yo | :algeria:
+
+## What I do?
+I am passionate about **penetration testing** and enjoy **coding** in my free time. I have experience in **scripting languages** and am always looking for new opportunities to learn and grow. In my [repositories](https://github.com/haithamaouati?tab=repositories), you'll find a combination of [scripts](https://github.com/haithamaouati?tab=repositories) and [gists](https://gist.github.com/haithamaouati) approaches
