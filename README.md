@@ -1,5 +1,5 @@
 # HawkHA
-_"Constant amid sea of variables."_ -[Haitham Aouati](https://github.com/haithamaouati)
+_"Constant amid a sea of variables."_ -[Haitham Aouati](https://github.com/haithamaouati)
 
 ## Who am I?
 Name |Age | Nationality
