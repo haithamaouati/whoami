@@ -1,4 +1,12 @@
-## Haitham Aouati
+# Hi there!
+
+<p>
+  Haitham Aouati<br>
+  <i>“Constant amid a sea of variables.”</i>
+  <p align="right">
+    <img src="https://raw.githubusercontent.com/haithamaouati/haithamaouati/main/Haitham.png#Haitham" alt="Picture" height="70" width="70"/>
+  </p>
+</p>
 
 [![committers.top badge](https://user-badge.committers.top/algeria/haithamaouati.svg)](https://user-badge.committers.top/algeria/haithamaouati)
 
