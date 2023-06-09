@@ -3,7 +3,7 @@
 <p align="center"><i>“Constant amid a sea of variables.”</i></p>
 
 [![committers.top badge](https://user-badge.committers.top/algeria/haithamaouati.svg)](https://user-badge.committers.top/algeria/haithamaouati)
-[![followers](https://img.shields.io/github/followers/haithamaouati?color=yellow&logo=github)](https://github.com/haithamaouati)
+[![followers](https://img.shields.io/github/followers/haithamaouati?style=social)](https://github.com/haithamaouati)
 
 A 23yo **developer** from 🇩🇿 who loves writing tech [articles]() and [scripts](https://github.com/haithamaouati?tab=repositories).
 
