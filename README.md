@@ -3,8 +3,8 @@
 <p>
   Haitham Aouati<br>
   <i>“Constant amid a sea of variables.”</i>
-  <p align="right">
-    <img src="https://raw.githubusercontent.com/haithamaouati/haithamaouati/main/Haitham.png#Haitham" alt="Picture" height="70" width="70"/>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/haithamaouati/haithamaouati/main/Haitham.png#Haitham" alt="Picture" height="90" width="90"/>
   </p>
 </p>
 
