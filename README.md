@@ -6,5 +6,5 @@
 [![followers](https://img.shields.io/github/followers/haithamaouati?style=social)]()
 [![stars](https://img.shields.io/github/stars/haithamaouati?style=social)]()
 
-A 23yo **developer** from 🇩🇿 who loves writing tech [articles]() and [scripts](https://github.com/haithamaouati?tab=repositories).
+Fellow me: [Profile]() • [GitHub](github.com/haithamaouati) • [Telegram](t.me/haithamaouati) • [Threads](threads.org/haithamaouati)
 
