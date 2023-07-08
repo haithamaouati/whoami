@@ -6,5 +6,5 @@
 [![followers](https://img.shields.io/github/followers/haithamaouati?style=social)]()
 [![stars](https://img.shields.io/github/stars/haithamaouati?style=social)]()
 
-Reach me on: [Profile](https://haithamaouati.github.io/haithamaouati/) • [GitHub](github.com/haithamaouati) • [Telegram](t.me/haithamaouati) • [Threads](threads.net/haithamaouati)
+Reach me on: [Site](https://haithamaouati.github.io/haithamaouati/) • [GitHub](github.com/haithamaouati) • [Telegram](https://t.me/haithamaouati) • [Threads](threads.net/haithamaouati)
 
