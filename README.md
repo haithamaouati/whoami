@@ -12,5 +12,5 @@
 A 23yo developer from Algeria who loves Coding, Blogging and playing Chess.
 </details>
 
-Reach me on: [Portfolio](https://haithamaouati.github.io/haithamaouati/) • [GitHub](github.com/haithamaouati) • [Telegram](https://t.me/haithamaouati) • [Threads](threads.net/haithamaouati)
+Reach me via: [Portfolio](https://haithamaouati.github.io/haithamaouati/) • [GitHub](github.com/haithamaouati) • [Telegram](https://t.me/haithamaouati) • [Threads](threads.net/haithamaouati)
 
