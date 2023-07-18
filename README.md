@@ -9,7 +9,7 @@
 <details>
 <summary>$whoami</summary>
 <br>
-A 23yo developer from Algeria who loves writing scripts in scripting languages, reading books and playing chess.
+A 23yo developer from Algeria who loves Coding, Blogging and playing Chess.
 </details>
 
 Reach me on: [Portfolio](https://haithamaouati.github.io/haithamaouati/) • [GitHub](github.com/haithamaouati) • [Telegram](https://t.me/haithamaouati) • [Threads](threads.net/haithamaouati)
