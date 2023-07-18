@@ -7,10 +7,10 @@
 [![stars](https://img.shields.io/github/stars/haithamaouati?style=social)]()
 
 <details>
-<summary>Quotes</summary>
+<summary>$whoami</summary>
 <br>
-You see, but you do not observe.
+A 23yo developer from Algeria who loves writing scripts in scripting languages, reading books and playing chess.
 </details>
 
-Reach me on: [Site](https://haithamaouati.github.io/haithamaouati/) • [GitHub](github.com/haithamaouati) • [Telegram](https://t.me/haithamaouati) • [Threads](threads.net/haithamaouati)
+Reach me on: [Portfolio](https://haithamaouati.github.io/haithamaouati/) • [GitHub](github.com/haithamaouati) • [Telegram](https://t.me/haithamaouati) • [Threads](threads.net/haithamaouati)
 
