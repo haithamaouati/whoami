@@ -1,0 +1,32 @@
+body {
+  font-family: 'Share Tech Mono', monospace;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+input,
+button {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#user-info {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
