@@ -5,6 +5,11 @@ body {
   text-align: center;
 }
 
+body.dark-theme {
+    background-color: #000;
+    color: #fff;
+}
+
 a:link {
   color: black;
   background-color: transparent;
