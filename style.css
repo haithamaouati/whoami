@@ -1,13 +1,7 @@
 body {
-  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
   font-family: 'Share Tech Mono', monospace;
   font-size: 14px;
   text-align: center;
-}
-
-body.dark-theme {
-    background-color: #000;
-    color: #fff;
 }
 
 a:link {
