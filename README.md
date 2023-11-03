@@ -7,7 +7,7 @@
   </p>
 
 [![committers.top badge](https://user-badge.committers.top/algeria/haithamaouati.svg)](https://user-badge.committers.top/algeria/haithamaouati)
-![StandWithPalestine](https://raw.githubusercontent.com/haithamaouati/haithamaouati/main/StandWithPalestine.svg)
+![StandWithPalestine](assets/StandWithPalestine.svg)
 
 Reach me via: [Portfolio](https://haithamaouati.github.io/haithamaouati/) • [GitHub](github.com/haithamaouati) • [Telegram](https://t.me/haithamaouati) • [Twitter](twitter.com/haithamaouati)
 
