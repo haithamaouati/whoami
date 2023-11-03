@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="125" height="125" src="https://github.com/haithamaouati/haithamaouati/raw/main/profile_picture.png">
+  <img width="125" height="125" src="assets/profile_picture.png">
   <br><b>Haitham Aouati</b></p>
   
   <p align="center">
