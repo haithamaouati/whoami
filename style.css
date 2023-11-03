@@ -1,16 +1,11 @@
-* {
+body {
   font-family: 'Share Tech Mono', monospace;
   font-size: 14px;
   text-align: center;
 }
 
-body {
-  color: #222;
-  background: #fff;
-}
-
 a:link {
-  color: #0033cc;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
@@ -22,13 +17,4 @@ a:visited {
   
 hr {
   width: 50%;
-}
- 
-/* Dark Mode styles */
-body.dark-theme {
-  color: #eee;
-  background: #121212;
-}
-body.dark-theme a {
-  color: #809fff;
 }
