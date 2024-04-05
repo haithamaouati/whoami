@@ -14,10 +14,13 @@ body {
 
 .dark-mode a:link {
   color: white;
+  background-color: transparent;
+  text-decoration: none;
 }
 
 .dark-mode a:visited {
   color: white;
+  text-decoration: none;
 }
 
 a:link {
