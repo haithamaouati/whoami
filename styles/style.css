@@ -12,6 +12,14 @@ body {
   color: white;
 }
 
+.dark-mode a:link {
+  color: white;
+}
+
+.dark-mode a:visited {
+  color: white;
+}
+
 a:link {
   color: black;
   background-color: transparent;
