@@ -1,8 +1,15 @@
 body {
+  padding: 25px;
+  background-color: white;
+  color: black;
   font-family: 'Share Tech Mono', monospace;
   font-size: 14px;
   text-align: center;
 }
+
+.dark-mode {
+  background-color: black;
+  color: white;
 
 a:link {
   color: black;
