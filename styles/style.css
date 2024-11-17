@@ -37,3 +37,7 @@ a:visited {
 hr {
   width: 50%;
 }
+
+textarea {
+  resize: none;
+}
