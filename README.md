@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="125" height="125" src="assets/HA.png">
+  <img width="125" height="125" src="assets/avatar.jpg">
   <br><b>Haitham Aouati</b></p>
   
   <p align="center">
