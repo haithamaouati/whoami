@@ -52,10 +52,10 @@ text-align: center;
 .badges-container {
 display: flex;
 justify-content: space-around; /* Distributes the badges evenly */
-gap: 10px; /* Optional space between badges */
+gap: 5px; /* Optional space between badges */
 }
 
 .badge {
-width: 10px; /* Adjust the size if needed */
+width: 50px; /* Adjust the size if needed */
 height: auto;
 }
