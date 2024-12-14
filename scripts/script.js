@@ -7,4 +7,4 @@ console.log(`
  |_|\_\ |_|  \__|  \__|  \__, |
                          |___/ 
 `);
-console.log("%c I love ♡ you Kitty 👀", "color: black; font-size: 14px; font-weight: bold;");
+console.log("%c I love ♡ you Kitty 👀", "color: green; font-size: 14px; font-weight: bold;");
