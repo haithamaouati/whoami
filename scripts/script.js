@@ -8,5 +8,5 @@ console.log(`
 `);
 console.log(
   "%cI love ♡ you Kitty 👀",
-  "color: green; font-size: 14px;"
+  "color: green; font-size: 16px;"
 );
