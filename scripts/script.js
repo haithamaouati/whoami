@@ -6,7 +6,4 @@ console.log(`
  |  _  | (_| |\ V  V /|   <|  _  |/ ___ \ 
  |_| |_|\__,_| \_/\_/ |_|\_\_| |_/_/   \_\ 
 `);
-console.log(
-  "%cI love ♡ you Kitty 👀",
-  "color: green; font-size: 16px;"
-);
+console.log('I love ♡ you Kitty 👀');
