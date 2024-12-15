@@ -7,7 +7,7 @@ function toggleDarkMode() {
 }
 
 // Terminal-Style Text Animation
-const introText = "I’m Haitham Aouati (also known as HawkHA), a 24 yo tech enthusiast who likes computers. I’m not a genius or an expert in anything, but I’m always looking to gain & share my knowledge.";
+const introText = "I’m Haitham Aouati (also known as HawkHA), a 24 yo tech enthusiast who likes computers. I’m not a genius or an expert in anything, but I’m always looking to gain and share my knowledge.";
 let i = 0;
 
 function typeWriter() {
