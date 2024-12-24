@@ -9,4 +9,6 @@
 [![committers.top badge](https://user-badge.committers.top/algeria/haithamaouati.svg)](https://user-badge.committers.top/algeria/haithamaouati)
 [![StandWithPalestine](assets/StandWithPalestine.svg)](https://haithamaouati.github.io/whoami/palestine.html)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haithamaouati&hide_progress=true)
+
 Reach me via: [Who Am I](https://haithamaouati.github.io/whoami/) [Telegram](https://t.me/haithamaouati) [𝕏](https://x.com/hawkha_dz)
