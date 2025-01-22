@@ -11,6 +11,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haithamaouati&repo=BW11)](https://github.com/haithamaouati/BW11)
 
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=haithamaouati\&repo=Felon\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haithamaouati&hide_progress=true)
 
 Reach me via: [Who Am I](https://haithamaouati.github.io/whoami/) [Telegram](https://t.me/haithamaouati) [𝕏](https://x.com/hawkha_dz)
