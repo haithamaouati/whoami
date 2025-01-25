@@ -41,3 +41,7 @@ hr {
 input {
 text-align: center;
 }
+
+span {
+  font-size: 24px;
+}
