@@ -7,13 +7,6 @@ body {
   text-align: center;
 }
 
-span {
-  font-size: 24px; /* Adjust the size of the icon */
-}
-span:hover {
-  opacity: 0.7; /* Adds a hover effect for better user experience */
-}
-
 .dark-mode {
   background-color: black;
   color: white;
@@ -47,15 +40,4 @@ hr {
 
 input {
 text-align: center;
-}
-
-.badges-container {
-display: flex;
-justify-content: space-around; /* Distributes the badges evenly */
-gap: 10px; /* Optional space between badges */
-}
-
-.badge {
-width: 50px; /* Adjust the size if needed */
-height: auto;
 }
