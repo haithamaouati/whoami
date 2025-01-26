@@ -45,3 +45,13 @@ text-align: center;
 span {
   font-size: 24px;
 }
+
+.special-paragraph {
+display: flex;
+align-items: center;
+color: grey;
+}
+    
+.special-paragraph img {
+margin-left: 5px;
+}
