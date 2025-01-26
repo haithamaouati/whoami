@@ -5,6 +5,11 @@ body {
   font-family: 'Share Tech Mono', monospace;
   font-size: 14px;
   text-align: center;
+  display: flex;              /* Makes the body a flex container */
+  justify-content: center;    /* Centers content horizontally */
+  align-items: center;        /* Centers content vertically */
+  height: 100vh;              /* Makes the body take the full viewport height */
+  margin: 0;                  /* Removes default margin */
 }
 
 .dark-mode {
